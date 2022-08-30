@@ -70,5 +70,5 @@ describe "Dog" do
       expect(teddy_from_db).to be_an_instance_of(Dog)
     end
   end
-
+  
 end
